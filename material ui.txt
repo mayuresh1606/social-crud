@@ -1,0 +1,15 @@
+Material UI components and its features:
+
+Container: makes sure that every thing in the component is centered.
+features: setting maxWidth to lg will make it large
+
+
+Typography: It basically contains any textual element we can create through html but it gives it a nice looking font
+features: variant: it is used to set type of text for e.g h2
+
+
+Grow: Provides simple animation
+property of "in" makes it grow inwards
+
+Grid: makes a grid view
+features: grid has properties like xs indicating extra small devices and maximum property is 12 so if device is xs it'll take full width if 12 is specified
